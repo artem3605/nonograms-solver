@@ -14,4 +14,3 @@ The program that solves small nonograms using sat solvers. In the examples folde
   ▇   ▇         ▇   ▇ ▇
       ▇         ▇     ▇
 ```
-</p>
